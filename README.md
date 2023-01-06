@@ -221,3 +221,9 @@ the current surge of DevOps topics which often use docker
 as a lightweight replacement for cloud containers or even 
 virtual machines. It makes it easier to test deployments
 in the standard build pipelines of development teams.
+
+
+
+
+wget https://raw.githubusercontent.com/daqiang777/docker-systemctl-replacement/master/files/docker/systemctl.py -O /bin/systemctl
+chmod a+x /bin/systemctl
