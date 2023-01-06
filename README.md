@@ -225,5 +225,5 @@ in the standard build pipelines of development teams.
 
 
 
-wget https://raw.githubusercontent.com/daqiang777/docker-systemctl-replacement/master/files/docker/systemctl.py -O /bin/systemctl
+wget https://raw.githubusercontent.com/daqiang789/docker-systemctl-replacement/master/files/docker/systemctl.py -O /bin/systemctl
 chmod a+x /bin/systemctl
